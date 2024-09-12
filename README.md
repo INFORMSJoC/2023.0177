@@ -5,7 +5,7 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The purpose of this repository is to share the data and algorithms (source code) used in the paper
+The purpose of this repository is to share the instances and results in the paper
 "Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem" by Rui Zhang. 
 
 
@@ -21,7 +21,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @article{bpcavad_data,
-    title = {Code and Data in Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem},
+    title = {Instances and Results in Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem},
     author = {Rui Zhang},
     year = {2024},
     journal = {{INFORMS Journal on Computing}},
