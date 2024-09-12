@@ -1,44 +1,36 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# CacheTest
+# Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2019.0000) by T. Ralphs. 
-The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
-in the development repository. 
+The purpose of this repository is to share the data and algorithms (source code) used in the paper
+"Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem" by Rui Zhang. 
 
-**Important: This code is being developed on an on-going basis at 
-https://github.com/tkralphs/JoCTemplate. Please go there if you would like to
-get a more recent version or would like support**
 
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-https://doi.org/10.1287/ijoc.2019.0000
+https://doi.org/10.1287/ijoc.2023.0177
 
-https://doi.org/10.1287/ijoc.2019.0000.cd
+https://doi.org/10.1287/ijoc.2023.0177.cd
 
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
-  author =        {T. Ralphs},
-  publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
-  year =          {2020},
-  doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
-  note =          {Available for download at https://github.com/INFORMSJoC/2019.0000},
-}  
+@article{bpcavad_data,
+    title = {Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem},
+    author = {Rui Zhang},
+    year = {2024},
+    journal = {{INFORMS Journal on Computing}},
+    doi={10.1287/ijoc.2023.0177.cd},
+    note={available for download at https://github.com/INFORMSJoC/2023.0177}
+}
 ```
 
-## Description
+## Instances
 
 The goal of this software is to demonstrate the effect of cache optimization.
 
