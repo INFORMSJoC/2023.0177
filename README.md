@@ -37,7 +37,5 @@ Instances contained in folder data.
 ## Algorithm
 The Folder `src` includes the code scripts used in the paper.
 
-## Support
-
-For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+## Results
+We report the figures of our paper in the Folder `results`
