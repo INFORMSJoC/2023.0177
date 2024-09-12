@@ -38,7 +38,7 @@ The Folder `src` includes the code scripts used in the paper.
 
 ## Requirements
 
-In this paper, we use the a few standard Python packages, which should be clear at the beginning of each script. It is worth noting that we use 
+We use the a few standard Python packages, which should be clear at the beginning of each Python file. It is worth noting that we use 
 1. Gurobi v11 as the solver.
 2. iGraph and Networkx for handling graphs.
 
