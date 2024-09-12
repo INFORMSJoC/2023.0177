@@ -31,11 +31,8 @@ Below is the BibTex for citing this snapshot of the repository.
 ```
 
 ## Instances
-
 Instances contained in folder data. 
 
-## Algorithm
-The Folder `src` includes the code scripts used in the paper.
 
 ## Results
 We report the figures of our paper in the Folder `results`
