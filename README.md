@@ -21,7 +21,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @article{bpcavad_data,
-    title = {Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem},
+    title = {Code and Data in Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem},
     author = {Rui Zhang},
     year = {2024},
     journal = {{INFORMS Journal on Computing}},
