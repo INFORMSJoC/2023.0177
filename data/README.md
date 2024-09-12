@@ -11,7 +11,8 @@ For each instance, there are three csv files, which contain the following inform
 6. Time: Time to drive (or walk) between origin destination pair
 
 
-The following part is taken from the test_instance_readme file from the original repository (https://iro.uiowa.edu/esploro/outputs/dataset/Instances-for-Impact-of-Autonomous-Vehicle/9983903464002771)
+The following part is taken from the test_instance_readme file from the original repository 
+
 ---------------
 DATA GENERATION
 ---------------
