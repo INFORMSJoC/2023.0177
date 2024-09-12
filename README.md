@@ -33,6 +33,13 @@ Below is the BibTex for citing this snapshot of the repository.
 ## Instances
 Instances contained in folder data. 
 
+## Algorithm
+The Folder `src` includes the code scripts used in the paper. 
+
+## Requirements
+
+In this paper, we use the a few standard Python packages, which should be clear at the beginning of each script. It is worth noting that we use Guorib v11 as the solver.
+
 
 ## Results
 We report the figures of our paper in the Folder `results`
