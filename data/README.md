@@ -1,4 +1,4 @@
-# Data for replication
+# Data Descriptions
 
 The instances are taken from the following paper, “Impact of Autonomous Vehicle Assisted Last-Mile Delivery in Urban to Rural Settings, Transportation Science, Vol.56(6), pp.1530-1548 11/2022” by S. Reed, A. M. Campbell, and B. W. Thomas. The instances are posted online and can be downloaded here (https://iro.uiowa.edu/esploro/outputs/dataset/Instances-for-Impact-of-Autonomous-Vehicle/9983903464002771).
 
