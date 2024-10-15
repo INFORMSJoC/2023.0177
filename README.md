@@ -20,13 +20,14 @@ https://doi.org/10.1287/ijoc.2023.0177.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@article{bpcavad_data,
-    title = {Instances and Code in Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem},
+@misc{bpcavad_data,
     author = {Rui Zhang},
+    publisher = {INFORMS Journal on Computing},
+    title = {{Instances and Code in Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem}},
     year = {2024},
-    journal = {{INFORMS Journal on Computing}},
     doi={10.1287/ijoc.2023.0177.cd},
-    note={available for download at https://github.com/INFORMSJoC/2023.0177}
+    url={https://github.com/INFORMSJoC/2023.0177},
+    note={Available for download at https://github.com/INFORMSJoC/2023.0177}
 }
 ```
 
